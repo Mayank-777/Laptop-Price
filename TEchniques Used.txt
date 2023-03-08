@@ -1,0 +1,4 @@
+-Very Good Feature engineering done in spliting the columns
+-Pipeline is used to predict the value
+-Multiple Regression models are used to get the best value
+-pipe is used to predict and display predicted value on the site
